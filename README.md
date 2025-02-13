@@ -20,3 +20,6 @@ Sistema Operacional
 ![flipper](https://img.shields.io/badge/Flipper%20Zero-FF8C00?style=for-the-badge&logo=flipperzero&logoColor=white)
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evgenevgenuk_icons=true&theme=transparent)
+
+
