@@ -28,15 +28,6 @@
 
 <img src="assets/divider.svg" width="100%">
 
-<h3 align="center">Projects</h3>
-
-<p align="center">
-  <a href="https://github.com/evgenevgenuk/extreme-bass-booster"><img src="assets/card_bass.svg" width="49%" alt="Extreme Bass Booster 9000"></a>
-  <a href="https://github.com/evgenevgenuk/workshop-drop"><img src="assets/card_workshop.svg" width="49%" alt="Workshop Drop"></a>
-</p>
-
-<img src="assets/divider.svg" width="100%">
-
 <h3 align="center">My socials</h3>
 
 <table align="center">
