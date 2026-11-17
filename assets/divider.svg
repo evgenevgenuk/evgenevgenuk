@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="24" viewBox="0 0 900 24">
+<defs><linearGradient id="d" x1="0" x2="1"><stop offset="0" stop-color="#ff4fa3" stop-opacity="0"/><stop offset="0.5" stop-color="#ff4fa3"/><stop offset="1" stop-color="#ff4fa3" stop-opacity="0"/></linearGradient></defs>
+<style>.h{animation:pulse 2.4s ease-in-out infinite;transform-origin:450px 12px}@keyframes pulse{0%,100%{transform:scale(1)}50%{transform:scale(1.25)}}</style>
+<rect x="60" y="11" width="350" height="2" rx="1" fill="url(#d)"/><rect x="490" y="11" width="350" height="2" rx="1" fill="url(#d)"/>
+<path class="h" d="M450 20 C436 10 434 3 441 2 C445 1.4 448 3.5 450 6 C452 3.5 455 1.4 459 2 C466 3 464 10 450 20 Z" fill="#ff4fa3"/>
+</svg>
