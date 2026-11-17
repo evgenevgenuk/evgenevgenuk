@@ -16,8 +16,7 @@
 
 <p align="center">
   Garry's Mod addon maker and owner of the <b>Facts Sandbox</b> server.<br>
-  I make TikToks about sandbox and write small desktop tools in Rust.<br>
-  Everything I touch slowly turns pink.
+  I make TikToks about sandbox.
 </p>
 
 <p align="center">
@@ -25,7 +24,6 @@
   <img src="https://img.shields.io/badge/Lua-ff6fb5?style=for-the-badge&logo=lua&logoColor=white" alt="Lua">
   <img src="https://img.shields.io/badge/Python-ff8cc6?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Java-ffa6d3?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Garry's%20Mod-ffb3d9?style=for-the-badge&logo=steam&logoColor=white" alt="Garry's Mod">
 </p>
 
 <img src="assets/divider.svg" width="100%">

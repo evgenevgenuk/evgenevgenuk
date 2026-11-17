@@ -7,18 +7,16 @@
 </defs>
 <style>
 .line { font-family:'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; font-size:34px; font-weight:700; fill:url(#g); text-anchor:middle;
-  opacity:0; transform-box:fill-box; animation:cycle 16.0s ease-in-out infinite; filter:url(#glow); }
+  opacity:0; transform-box:fill-box; animation:cycle 9.6s ease-in-out infinite; filter:url(#glow); }
 @keyframes cycle {
   0% { opacity:0; transform:translateY(14px); filter:blur(4px); }
-  2.40% { opacity:1; transform:translateY(0); filter:blur(0); }
-  17.00% { opacity:1; transform:translateY(0); filter:blur(0); }
-  20.00% { opacity:0; transform:translateY(-14px); filter:blur(4px); }
+  4.00% { opacity:1; transform:translateY(0); filter:blur(0); }
+  28.33% { opacity:1; transform:translateY(0); filter:blur(0); }
+  33.33% { opacity:0; transform:translateY(-14px); filter:blur(4px); }
   100% { opacity:0; }
 }
 </style>
 <text x="450" y="58" class="line" style="animation-delay:0.0s">Hi, I'm midex</text>
 <text x="450" y="58" class="line" style="animation-delay:3.2s">I make Garry's Mod addons</text>
 <text x="450" y="58" class="line" style="animation-delay:6.4s">Owner of the Facts Sandbox server</text>
-<text x="450" y="58" class="line" style="animation-delay:9.600000000000001s">I build small tools in Rust</text>
-<text x="450" y="58" class="line" style="animation-delay:12.8s">Pink is a lifestyle</text>
 </svg>
