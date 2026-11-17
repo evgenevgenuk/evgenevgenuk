@@ -20,7 +20,7 @@
     </td>
     <td align="center" width="200">
       <a href="https://www.tiktok.com/@midex_facti">
-        <img src="assets/tiktok_round.png" width="120" alt="TikTok avatar"><br>
+        <img src="assets/tiktok_avatar.png" width="120" alt="TikTok avatar"><br>
         <img src="https://img.shields.io/badge/TikTok-@midex__facti-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
       </a>
     </td>
